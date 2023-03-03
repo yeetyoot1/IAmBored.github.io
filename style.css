@@ -21,6 +21,7 @@ p{
 .button{
     background-color: darkblue;
     border: none;
+    border-radius: 10px;
     font-family: "Space Mono", monospace;
     display: inline-block;
     color: white;
