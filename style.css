@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, white, black);
+}
+
+h1{
+    text-align: center;
+    color: purple;
+}
+
+p{
+    color: white;
+    font-size: 160%;
+    font-family: "Space Mono", monospace;
+    border: 5px solid blue;
+    border-radius: 10px;
+    /*border-image: linear-gradient(to bottom right, purple, blue);*/
+    width: 11.2%;
+}
