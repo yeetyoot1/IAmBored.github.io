@@ -22,9 +22,10 @@ p{
     background-color: darkblue;
     border: none;
     font-family: "Space Mono", monospace;
+    display: inline-block;
     color: white;
     text-align: center;
-    padding: auto;
-    margin: auto;
+    padding: 10px ;
+    margin: 4px 2px;
     cursor: pointer;
 }
