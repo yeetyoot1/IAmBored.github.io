@@ -1,5 +1,7 @@
+
+
 body{
-    background-image: linear-gradient(to right, white, black);
+    background-image: linear-gradient(to right, black, white);
 }
 
 h1{
@@ -13,6 +15,13 @@ p{
     font-family: "Space Mono", monospace;
     border: 5px solid blue;
     border-radius: 10px;
-    /*border-image: linear-gradient(to bottom right, purple, blue);*/
     width: 11.2%;
+}
+
+.button{
+    background-color: darkmagenta;
+    border: none;
+    color: white;
+    text-align: center;
+    cursor: pointer;
 }
