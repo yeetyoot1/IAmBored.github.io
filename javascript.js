@@ -19,9 +19,9 @@ document.querySelector("p").onmouseover = event => {
     }, 100);
 }
 
-let xuon = document.querySelector("h1").innerText.length + 5.5;
+let xuon = document.querySelector("h1").innerText.length + 19;
 
-let wordLength = xuon + "%";
+let wordLength = xuon + "px";
 
 console.log(wordLength);
 document.querySelector("p").style.setProperty("width", wordLength);
