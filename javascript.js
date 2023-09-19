@@ -19,7 +19,7 @@ document.querySelector("p").onmouseover = event => {
     }, 100);
 }
 
-let xuon = document.querySelector("p").innerText.length * 15;
+let xuon = document.querySelector("p").innerText.length * 17;
 
 let wordLength = xuon + "px";
 
