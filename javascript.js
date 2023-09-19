@@ -18,3 +18,10 @@ document.querySelector("p").onmouseover = event => {
         iterations += 1/3;
     }, 100);
 }
+
+let xuon = document.querySelector("h1").innerText.length + 5.5;
+
+let wordLength = xuon + "%";
+
+console.log(wordLength);
+document.querySelector("p").style.setProperty("width", wordLength);
